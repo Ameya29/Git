@@ -4,6 +4,7 @@ class NumberGenerator
  static int i,begin,end;
  public static void main(String args[])
  {
+  System.out.println("Hello World");
   Scanner in=new Scanner(System.in);
   System.out.print("Enter Starting Number :");
   begin=in.nextInt();
